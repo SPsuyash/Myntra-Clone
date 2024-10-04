@@ -1,2 +1,0 @@
-# Myntra-Clone
-# Myntra-Clone
